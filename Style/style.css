@@ -1,0 +1,33 @@
+section {
+    padding-top: 70px;
+    top: 0;
+}
+
+.bg {
+    background-image: url(../img/nature.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about {
+    background-color: #E6DDC4;
+}
+
+#project {
+    background-color: #B4C6A6;
+}
+
+footer {
+    padding: 0 4px 5px 0;
+}
+
+footer a img {
+    padding-left: 2px;
+    transition: .3s;
+}
+
+footer a img:hover {
+    transform: scale(1.2);
+}
